@@ -1,0 +1,118 @@
+nav{
+    background-color: #daac00;
+}
+nav .nav-item .nav-link{
+    color: white;
+    font-size: 30px;
+  
+}
+nav .form-control{
+    background-color: #fcc302;
+}
+nav .btn{
+    background-color: #00bec9;
+    color: white;
+}
+
+.home{
+    background-color: #fcc302;
+}
+.home .home-info h1{
+    font-size: 67px;
+    color: white;
+}
+.home .home-info p{
+    font-size: 30px;
+    color: white;
+}
+
+.home .home-info ul li{
+    display: inline-block;
+}
+.home .home-info ul li .btn1{
+    background-color: #00bec9;
+    color: white;
+    padding: 8px 15px;
+    margin-right: 20px;
+}
+.home .home-info ul li .btn2{
+    background-color: #fcc302;
+    color: white;
+    padding: 8px 15px;
+    border: 2px solid white;
+}
+.veterinarian .veterinarian-info h1{
+    font-size: 50px;
+}
+.veterinarian .veterinarian-info p{
+    font-size: 30px;
+}
+.veterinarian .video-part{
+    position: absolute;
+    z-index: 1;
+}
+.veterinarian .video-contant{
+    background-color: #fcc302;
+    height: 120px;
+    width: 120px;
+    position: relative;
+    right: 25px;
+   top: 220px;
+ 
+}
+.veterinarian .veterinarian-info .btn1{
+    background-color: #fcc302;
+    color: white;
+    padding: 10px;
+}
+.title-here{
+    background-color: #fcc302;
+    
+}
+.title-here .card{
+    border: none;
+}
+.title-here .card-body{
+    text-align: center;
+    background-color: #fcc302;
+    color: white;
+    border: none;
+    outline: none;
+    
+}
+.title-here .card-heading{
+    text-align: center;
+    color: white;
+}
+.title-here .card-heading h1{
+    font-size: 75px;
+}
+.title-here .card-heading p{
+    font-size: 34px;
+}
+.title-here .card-body .card-title{
+    font-size: 37.5px;
+}
+.title-here .card-body .card-text{
+    font-size: 25px;
+}
+.veterinarian .veterinarian-info-2{
+    text-align: right;
+}
+.veterinarian .video-part-2 {
+    position: absolute;
+}
+.veterinarian .video-contant-2{
+    position: relative;
+    left: 212px;
+}
+
+.title-here  .card  .card-body .thaka{
+    font-size: 41.67px;
+}
+.title-here  .card  .card-body button{
+    font-size: 25px;
+    background-color:  #00bec9;
+    color: white;
+    border-radius: 20px; padding: 5px 30px;
+}
