@@ -137,3 +137,17 @@ nav .btn{
 .vetcare-team .p1{
     font-size: 34px;
 }
+.clients{
+    background-image: url(../assets/img/clien-banner.png);
+    
+}
+.clients h4{
+    font-size: 41px;
+}
+.clients h3{
+    font-size: 38px;
+    padding-bottom: 50px;
+}
+.clients .maneger{
+    text-align: center;
+}
