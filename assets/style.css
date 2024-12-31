@@ -116,3 +116,24 @@ nav .btn{
     color: white;
     border-radius: 20px; padding: 5px 30px;
 }
+.vetcare-team .card-heading{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.vetcare-team .card-body{
+    text-align: center;
+}
+.vetcare-team ul li{
+    display: inline-block; 
+ padding-right: 10px;
+}
+.vetcare-team .card{
+    border: none;
+    padding-bottom: 50px;
+}
+.vetcare-team h1{
+    font-size: 75px;
+}
+.vetcare-team .p1{
+    font-size: 34px;
+}
