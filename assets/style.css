@@ -150,4 +150,39 @@ nav .btn{
 }
 .clients .maneger{
     text-align: center;
+    color: white;
+}
+.recent-posts .card-heading{
+    text-align: center;
+}
+.recent-posts .card-heading h1{
+    font-size: 75px;
+    
+}
+.recent-posts .card-heading p{
+    font-size: 33px;
+    
+}
+.recent-posts  .card-body {
+    padding-left: 30px;
+   
+}
+.recent-posts  .card-body .card-title{
+    font-size: 25px;
+    padding-right: 30px;
+   
+}
+.recent-posts  .card-body .card-text{
+    font-size: 16.67px;
+    color: #00bec9;
+}
+
+.recent-posts  .card-body p{
+    font-size: 16.67px;
+}
+
+.recent-posts  .card-body .button a{
+   color: #00bec9;
+   font-size: 21px;
+
 }
