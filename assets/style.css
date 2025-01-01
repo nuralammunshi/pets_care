@@ -42,7 +42,7 @@ nav .btn{
     border: 2px solid white;
 }
 .veterinarian .veterinarian-info h1{
-    font-size: 50px;
+    font-size: 3.12rem;
 }
 .veterinarian .veterinarian-info p{
     font-size: 30px;
@@ -186,3 +186,42 @@ nav .btn{
    font-size: 21px;
 
 }
+footer{
+background-color: #343434;
+padding-top: 100px;
+padding-bottom: 120px;
+}
+footer ul li, a{
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    font-size: 25px;
+
+}
+footer ul li h1{
+    font-size: 37.5 !important;
+}
+footer .f-l {
+    color: white;
+}
+footer .f-l h1 {
+font-size: 37.5;
+}
+footer .f-l p {
+    font-size: 25px;
+    }
+footer form input{
+    background-color: #daac00 !important;
+    padding-bottom: 20px !important;
+}
+footer form .btn {
+    background-color: #00bec9;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+footer .social-link ul li{
+    display: inline-block;
+    padding-right: 10PX;
+   text-align: left;
+}
+
